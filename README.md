@@ -1,4 +1,5 @@
-## PING PONG GAME
+## Ex-3 PING PONG GAME
+### Date :10/4/2023
 ### AIM:
 To develop a ping pong game using C# program in unity.
 
